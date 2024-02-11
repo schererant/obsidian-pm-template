@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "c154e0e7633ba95a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3cd7bf6fe954536",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8138afc778b1f30d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tasks/🗣 Task MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e5096f285aeee6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f48cdac960b78569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f14b8268c9c84066",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f61f39e1d0e4fd8a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8933bbac6c835a55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6b86d2d82af8e96",
+    "type": "split",
+    "children": [
+      {
+        "id": "52c66910a2176066",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89f221a567777e8d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tasks/🗣 Task MOC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e1c1882b327f9319",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tasks/🗣 Task MOC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a81fbb2667a499f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ee98ccafc2ee4a5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tasks/🗣 Task MOC.md"
+              }
+            }
+          },
+          {
+            "id": "115bd0fa80b37c1c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "f14b8268c9c84066",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "tasks/🗣 Task MOC.md",
+    "tasks/Untitled Kanban.md",
+    "tasks/2024-02-11 TKTK.md",
+    "+Home.md",
+    "people/💁‍♀️ Example Person.md",
+    "tasks/2024-02-11 Example Done.md",
+    "tasks/2024-02-11 Example Task Ready.md",
+    "tasks/2024-02-11 Example Task In Progress.md",
+    "people/TKTK.md",
+    "people/📝 People MOC.md",
+    "obsidian_helper/templates/meeting_template.md",
+    "obsidian_helper/templates/milestone_template.md",
+    "obsidian_helper/templates/people_template.md",
+    "obsidian_helper/templates/task_template.md",
+    "projects/🗣 Project MOC.md",
+    "Extras/People/TKTK.md",
+    "milestones/🗣 Milestone MOC.md",
+    "Extras/People",
+    "Extras",
+    "obsidian_helper/meeting_structure.md",
+    "meetings/🗣 Meetings MOC.md",
+    "obsidian_helper/subsystem_example.md",
+    "obsidian_helper/project_example.md",
+    "README.md",
+    "projects/project_1",
+    "projects/project_0",
+    "meetings",
+    "milestones",
+    "projects",
+    "tasks",
+    "people",
+    "obsidian_helper/templates"
+  ]
+}
