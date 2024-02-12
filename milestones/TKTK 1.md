@@ -3,8 +3,4 @@ projects:
 due_date: 
 status:
 ---
-## Description 
-
----
-## Tasks
-
+%% TODO: use due date in title %%

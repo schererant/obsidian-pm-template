@@ -1,7 +1,8 @@
 ---
-company: 
+stakeholder: 
 location: 
-title: 
+position: 
+role: 
 email: 
 website: 
 aliases: 
@@ -9,7 +10,7 @@ expertise:
 projects: 
 teams:
 ---
-tags:: [[People MOC]]
+Peotags:: [[People MOC]]
 
 # <% tp.file.title %>
 <% await tp.file.move("/people/" + tp.file.title) %>

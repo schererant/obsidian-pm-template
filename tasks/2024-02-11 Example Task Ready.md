@@ -1,5 +1,5 @@
 ---
-assignees: "[[💁‍♀️ Example Person]]"
+assignees: "[[💁‍♀️ Example Person 0]]"
 projects: 
 teams: 
 expertise: 
@@ -8,7 +8,7 @@ due_date: 2024-02-15
 start date: 
 status:
   - Ready
-priority:
+priority: 
 ---
 tags: [[🗣 Task MOC]]
 Date: [[2024-02-11-Sunday]]

@@ -5,6 +5,12 @@
     "tags": "tags",
     "due_date": "date",
     "start_date": "date",
-    "status": "multitext"
+    "status": "multitext",
+    "people": "multitext",
+    "projects": "multitext",
+    "start date": "date",
+    "assignees": "multitext",
+    "teams": "multitext",
+    "expertise": "multitext"
   }
 }

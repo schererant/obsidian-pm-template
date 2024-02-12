@@ -1,5 +1,5 @@
 ---
-assignees: "[[💁‍♀️ Example Person]]"
+assignees: "[[💁‍♀️ Example Person 0]]"
 projects: 
 teams: 
 expertise: 
@@ -7,7 +7,7 @@ milestones:
 due_date: 
 start_date: 
 status: 
-priority:
+priority: 
 ---
 tags: [[🗣 Task MOC]]
 Date: [[<% tp.date.now("YYYY-MM-DD-dddd") %>]]

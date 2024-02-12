@@ -1,9 +1,9 @@
 ---
-assignees: "[[💁‍♀️ Example Person]]"
+assignees: "[[💁‍♀️ Example Person 0]]"
 projects: 
 teams: 
 expertise: 
-milestones: 
+milestone: 
 due_date: 2024-02-11
 start date: 
 status:

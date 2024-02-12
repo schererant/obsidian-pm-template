@@ -1,5 +1,5 @@
 ---
-assignees: "[[💁‍♀️ Example Person]]"
+assignees: "[[💁‍♀️ Example Person 0]]"
 projects: 
 teams: 
 expertise: 

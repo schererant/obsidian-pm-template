@@ -3,13 +3,27 @@
 # Milestone MOC
 ...
 
-**Template:** [[meeting_template]]
+**Template:** [[milestone_template]]
 
+```meta-bind-button
+label: New Milestone
+hidden: false
+class: ""
+tooltip: ""
+id: ""
+style: default
+actions:
+  - type: templaterCreateNote
+    templateFile: obsidian_helper/templates/milestone_template.md
+    folderPath: milestones
+    fileName: TKTK
+    openNote: true
 
-## Meeting Notes
+```
+## Milestones
 
 ```dataview
-TABLE file.cday as Created, summary
-FROM "meetings" and -#MOC
+TABLE file.cday, due_date as Created, summary, Due_Date
+FROM "milestones" and -#MOC
 SORT file.cday DESC
 ```

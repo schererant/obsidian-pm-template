@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tasks/🗣 Task MOC.md",
+                "file": "obsidian_helper/templates/task_template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tasks/🗣 Task MOC.md",
+                "file": "obsidian_helper/templates/task_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tasks/🗣 Task MOC.md",
+                "file": "obsidian_helper/templates/task_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tasks/🗣 Task MOC.md"
+                "file": "obsidian_helper/templates/task_template.md"
               }
             }
           },
@@ -155,33 +155,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f14b8268c9c84066",
+  "active": "8138afc778b1f30d",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "tasks/🗣 Task MOC.md",
-    "tasks/Untitled Kanban.md",
-    "tasks/2024-02-11 TKTK.md",
-    "+Home.md",
-    "people/💁‍♀️ Example Person.md",
-    "tasks/2024-02-11 Example Done.md",
-    "tasks/2024-02-11 Example Task Ready.md",
-    "tasks/2024-02-11 Example Task In Progress.md",
-    "people/TKTK.md",
-    "people/📝 People MOC.md",
     "obsidian_helper/templates/meeting_template.md",
     "obsidian_helper/templates/milestone_template.md",
     "obsidian_helper/templates/people_template.md",
-    "obsidian_helper/templates/task_template.md",
-    "projects/🗣 Project MOC.md",
-    "Extras/People/TKTK.md",
+    "milestones/TKTK 1.md",
     "milestones/🗣 Milestone MOC.md",
+    "tasks/2024-02-11 Example Task In Progress.md",
+    "tasks/2024-02-11 Example Done.md",
+    "obsidian_helper/templates/project_template.md",
+    "projects/🗣 Project MOC.md",
+    "meetings/2024-02-12_16.10 Meeting 0.md",
+    "meetings/🗣 Meetings MOC.md",
+    "meetings/2024-02-12_16.07 Meeting 0.md",
+    "meetings/2024-02-12_16.08 Meeting 1.md",
+    "meetings/2024-02-12_15.36 Soe.md",
+    "meetings/2024-02-12_15.32 Example 1.md",
+    "meetings/2024-02-12_15.33 Roundhouse.md",
+    "meetings/2024-02-12_15.31 Some.md",
+    "meetings/2024-02-12_15.29 TKTK.md",
+    "meetings/2024-02-12_15.30 TKTK.md",
+    "meetings/2024-02-12_15-24 TKTK.md",
+    "meetings/2024-02-12_15.25 TKTK.md",
+    "meetings/2024-02-12 15-23 TKTK TKTK.md",
+    "meetings/2024-02-12 15-21 TKTK TKTK.md",
+    "meetings/2024-02-12 TKTK.md",
+    "meetings/2024-02-12 New Note.md",
+    "milestones/TKTK.md",
+    "Untitled.canvas",
     "Extras/People",
     "Extras",
-    "obsidian_helper/meeting_structure.md",
-    "meetings/🗣 Meetings MOC.md",
-    "obsidian_helper/subsystem_example.md",
-    "obsidian_helper/project_example.md",
-    "README.md",
     "projects/project_1",
     "projects/project_0",
     "meetings",

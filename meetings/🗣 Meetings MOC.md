@@ -15,7 +15,7 @@ style: default
 actions:
   - type: templaterCreateNote
     templateFile: obsidian_helper/templates/meeting_template.md
-    folderPath: meetings
+    folderPath: "meetings"
     fileName: TKTK
     openNote: true
 
